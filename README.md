@@ -1,2 +1,2 @@
 Restaurant Management Systems 
-![Alt text](restaurant.jpg?raw=true "Title")
+![Alt text](restaurant.png?raw=true "Title")
